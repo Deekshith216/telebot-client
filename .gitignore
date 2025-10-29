@@ -1,0 +1,58 @@
+# Dependencies
+/node_modules
+/.pnp
+.pnp.js
+
+# Testing
+/coverage
+
+# Production
+/build
+
+# Misc
+.DS_Store
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Env files
+.env
+.env.*.local
+.env.local
+
+# Cache
+.cache/
+.parcel-cache/
+.pnpm-store/
+
+# IDEs / editors
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Misc
+lib-cov/
+jspm_packages/
+
+# Telegram bot data files (uncomment if you don't want to track these)
+# chats.json
+# pending.json
+# groupAdmins.json
+
+# Config files
+config.json
+.config.json
